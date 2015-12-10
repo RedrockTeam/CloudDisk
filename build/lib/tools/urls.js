@@ -1,9 +1,8 @@
 /**
  * Created by liuhuizhi on 15/12/9.
  */
-define('urls',[],function () {
+define('tools/urls',function () {
     var urls = {
-        "login": 'mooc.php/?type=login',
 
     };
 
